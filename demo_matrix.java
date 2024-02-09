@@ -48,7 +48,7 @@ class pgm{
         }
  
         
-    /*void calculate(){
+    void calculate(){
         for(i=0;i<3;i++){
             for(j=0;j<3;j++){
                 for(k=0;k<3;k++){
@@ -65,7 +65,7 @@ class pgm{
             }
             System.out.println();
         }
-    }*/
+    }
 }
 
 
